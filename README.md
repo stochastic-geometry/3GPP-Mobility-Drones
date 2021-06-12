@@ -12,7 +12,8 @@ Please cite [1] for reusing these codes and contact Morteza Banagar at mbanagar@
 
 The extended journal version of the conference in [1] is available in [2]. The repository for the codes of [2] can be found [here](https://github.com/stochastic-geometry/Mobility-Drones).
 
-![3GPP_Mobility_Drone](https://github.com/stochastic-geometry/SRWP-Drones/blob/master/SimplifiedRandomWayPoint.jpg)
+![3GPP_Mobility_Drone](https://github.com/stochastic-geometry/3GPP-Mobility-Drone/blob/d434d82f31828277b01c4673e8594621ba1ba96c/3GPP_Mobility_Drone.JPG)
+
 
 ### References
 
